@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0">
+  <Operation Name="Rename Refactor" Key="2824b2c4-fbc8-47f0-a250-57369de17fc9" ChangeDateTime="03/11/2025 12:05:18" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[User].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[User]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="User_Id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="85be69b5-390b-4aaf-aa76-9ef05fd0cb25" ChangeDateTime="03/11/2025 12:37:22" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[User].[Pseudo]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[User]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Password" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="0958682d-3927-491d-86a5-142243963e98" ChangeDateTime="03/11/2025 12:38:25" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[User].[Pseudo]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[User]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Date" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="50354231-374b-4407-a9a7-6926bcc1913b" ChangeDateTime="03/11/2025 12:38:30" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[User].[Date_Created]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[User]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Pseudo" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3f1490b4-af40-4102-89ab-3caa45e0db7f" ChangeDateTime="03/11/2025 12:38:37" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[User].[Date]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[User]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Date_Created" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="81ba5819-5ac8-49ee-9b93-c0981d5e5a3a" ChangeDateTime="03/11/2025 12:38:54" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[User].[Salt]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[User]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Date_Deactivated" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="cf2483a3-5c50-43d2-89a4-138ff8934112" ChangeDateTime="03/11/2025 12:46:04" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Jeu].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Jeu]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Jeu_Id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="593b3d9a-930c-463f-bd2d-687febb8c268" ChangeDateTime="03/11/2025 12:56:15" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[GameCopy].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[GameCopy]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Copy_Id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="7d969954-3a17-422b-9e44-76d4d96c1a6a" ChangeDateTime="03/11/2025 12:57:32" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[GameCopy].[Jeu_]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[GameCopy]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Jeu_Id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="fcd312b4-2d8b-491b-b0f0-bcfa636c6d60" ChangeDateTime="03/11/2025 13:10:15" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Condition].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Condition]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Condition_Id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="5cdc230d-39c3-4b98-9601-4349cb0bf868" ChangeDateTime="03/11/2025 13:16:02" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[GameCopy].[Condition]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[GameCopy]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Copy_Condition" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="35328d1f-85b0-44f4-89e2-c58477da25a0" ChangeDateTime="03/11/2025 13:25:37" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Emprunt].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Emprunt]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Emprunt_Id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="8ab5745a-8674-4143-97ed-027693fbfcdf" ChangeDateTime="03/11/2025 13:29:41" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Emprunt].[Borrower_Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Emprunt]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="GameCopy_Id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a82e80d7-bb98-4c8c-aebb-5ee679c23bae" ChangeDateTime="03/11/2025 13:30:25" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Emprunt].[Lender_Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Emprunt]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Eval_By_Lender" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="95e4a9a3-56cd-4e0b-be3a-2281a5c4fe66" ChangeDateTime="03/11/2025 13:45:28" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Game_And_Tag].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Game_And_Tag]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Jeu_Id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f8ed8c11-1ed0-4c19-9393-c0a7d06ab52e" ChangeDateTime="03/11/2025 13:49:51" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Tag].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Tag]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Tag_Name" />
+  </Operation>
+</Operations>

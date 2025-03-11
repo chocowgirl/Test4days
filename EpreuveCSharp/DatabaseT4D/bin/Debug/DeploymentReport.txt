@@ -1,0 +1,38 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Condition] (Table)
+       [dbo].[Emprunt] (Table)
+       [dbo].[Game_And_Tag] (Table)
+       [dbo].[GameCopy] (Table)
+       [dbo].[Jeu] (Table)
+       [dbo].[Tag] (Table)
+       [dbo].[User] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Jeu] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[User] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[User] (Default Constraint)
+       [dbo].[FK_GameCopy_Id] (Foreign Key)
+       [dbo].[FK_Borrower_Id] (Foreign Key)
+       [dbo].[FK_Lender_Id] (Foreign Key)
+       [dbo].[FK_Tagged_Jeu_Id] (Foreign Key)
+       [dbo].[FK_Tagged_Jeu_Tag] (Foreign Key)
+       [dbo].[FK_Jeu_Id] (Foreign Key)
+       [dbo].[FK_UserOwner_Id] (Foreign Key)
+       [dbo].[FK_Copy_Condition] (Foreign Key)
+       [dbo].[Eval_By_Lender] (Check Constraint)
+       [dbo].[Eval_By_Borrower] (Check Constraint)
+       [dbo].[CK_Min_Age] (Check Constraint)
+       [dbo].[CK_Max_Age] (Check Constraint)
+       [dbo].[CK_Min_Players] (Check Constraint)
+       [dbo].[CK_Max_Players] (Check Constraint)
+
+** Supporting actions

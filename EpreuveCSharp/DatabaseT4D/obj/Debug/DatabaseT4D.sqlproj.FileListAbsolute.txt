@@ -1,0 +1,10 @@
+C:\Users\j.conrad\source\Test4days\EpreuveCSharp\DatabaseT4D\bin\Debug\DatabaseT4D.dacpac
+C:\Users\j.conrad\source\Test4days\EpreuveCSharp\DatabaseT4D\obj\Debug\DatabaseT4D.sqlproj.AssemblyReference.cache
+C:\Users\j.conrad\source\Test4days\EpreuveCSharp\DatabaseT4D\obj\Debug\Model.xml
+C:\Users\j.conrad\source\Test4days\EpreuveCSharp\DatabaseT4D\obj\Debug\refactor.xml
+C:\Users\j.conrad\source\Test4days\EpreuveCSharp\DatabaseT4D\obj\Debug\postdeploy.sql
+C:\Users\j.conrad\source\Test4days\EpreuveCSharp\DatabaseT4D\obj\Debug\predeploy.sql
+C:\Users\j.conrad\source\Test4days\EpreuveCSharp\DatabaseT4D\obj\Debug\DatabaseT4D.dll
+C:\Users\j.conrad\source\Test4days\EpreuveCSharp\DatabaseT4D\obj\Debug\DatabaseT4D.pdb
+C:\Users\j.conrad\source\Test4days\EpreuveCSharp\DatabaseT4D\bin\Debug\DatabaseT4D.dll
+C:\Users\j.conrad\source\Test4days\EpreuveCSharp\DatabaseT4D\bin\Debug\DatabaseT4D.pdb

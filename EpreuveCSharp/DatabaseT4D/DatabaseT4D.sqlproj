@@ -70,4 +70,7 @@
   <ItemGroup>
     <RefactorLog Include="DatabaseT4D.refactorlog" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="DatabaseT4D.publish.xml" />
+  </ItemGroup>
 </Project>

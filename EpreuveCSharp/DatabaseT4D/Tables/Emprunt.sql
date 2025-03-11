@@ -12,5 +12,5 @@
     CONSTRAINT [Eval_By_Borrower] CHECK ([Eval_By_Borrower] IS NULL OR ([Eval_By_Borrower] > 0 AND [Eval_By_Borrower] < 11)),
     CONSTRAINT [FK_GameCopy_Id] FOREIGN KEY ([GameCopy_Id]) REFERENCES [GameCopy] ([Copy_Id]),
     CONSTRAINT [FK_Borrower_Id] FOREIGN KEY ([Borrower_Id]) REFERENCES [User] ([User_Id]),
-    CONSTRAINT [FK_Lender_Id] FOREIGN KEY ([Lender_Id]) REFERENCES [GameCopy] ([UserOwner_Id])
+    CONSTRAINT [FK_Lender_Id] FOREIGN KEY ([Lender_Id]) REFERENCES [User] ([User_Id])
 )
