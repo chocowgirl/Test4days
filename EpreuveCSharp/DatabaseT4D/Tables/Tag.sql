@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Tag]
+(
+	[Tag_Name] VARCHAR(50) NOT NULL UNIQUE PRIMARY KEY
+)

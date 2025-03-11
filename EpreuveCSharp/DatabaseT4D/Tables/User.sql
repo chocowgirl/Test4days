@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[User]
+(
+	[User_Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY DEFAULT NEWID(), 
+    [Email] NVARCHAR(320) NOT NULL, 
+    [Password] VARBINARY(64) NOT NULL, 
+    [Pseudo] NVARCHAR(50) NOT NULL,
+    [Date_Created] DATE NOT NULL DEFAULT GETDATE(), 
+    [Date_Deactivated] DATE NULL, 
+    [Salt] UNIQUEIDENTIFIER NOT NULL,
+)
