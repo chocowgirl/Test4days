@@ -63,7 +63,6 @@
     <Build Include="Tables\User.sql" />
     <Build Include="Tables\Jeu.sql" />
     <Build Include="Tables\GameCopy.sql" />
-    <Build Include="Tables\Condition.sql" />
     <Build Include="Tables\Emprunt.sql" />
     <Build Include="Tables\Game_And_Tag.sql" />
     <Build Include="Tables\Tag.sql" />
@@ -73,6 +72,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="DatabaseT4D.publish.xml" />
+    <None Include="DatabaseT4D_1.publish.xml" />
+    <None Include="DatabaseT4D_2.publish.xml" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Scripts\Script.PostDeployment.ONLY.sql" />

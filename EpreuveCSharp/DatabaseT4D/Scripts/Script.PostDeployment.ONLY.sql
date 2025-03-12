@@ -9,3 +9,9 @@ Post-Deployment Script Template
                SELECT * FROM [$(TableName)]					
 --------------------------------------------------------------------------------------
 */
+INSERT INTO [Tag] ([Tag_Name]) VALUES ('Cooperative');
+INSERT INTO [Tag] ([Tag_Name]) VALUES ('Team');
+INSERT INTO [Tag] ([Tag_Name]) VALUES ('Dice');
+INSERT INTO [Tag] ([Tag_Name]) VALUES ('Cards');
+INSERT INTO [Tag] ([Tag_Name]) VALUES ('Board');
+INSERT INTO [Tag] ([Tag_Name]) VALUES ('Money');
