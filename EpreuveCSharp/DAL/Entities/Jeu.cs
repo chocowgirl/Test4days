@@ -8,7 +8,7 @@ namespace DAL.Entities
 {
     public class Jeu
     {
-        public Guid Jeu_Id { get; set; }
+        public int Jeu_Id { get; set; }
 
         public string Title { get; set; }
 

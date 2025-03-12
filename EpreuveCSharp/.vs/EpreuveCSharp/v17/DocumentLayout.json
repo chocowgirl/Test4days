@@ -3,48 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\dal\\entities\\gamecopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\gamecopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\dal\\services\\empruntservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|solutionrelative:dal\\services\\empruntservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E80D7E52-B59C-4E58-AA07-02F7849C3F03}|DatabaseT4D\\DatabaseT4D.sqlproj|C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DatabaseT4D\\Stored Procedures\\SP_GameCopy_Disown.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{E80D7E52-B59C-4E58-AA07-02F7849C3F03}|DatabaseT4D\\DatabaseT4D.sqlproj|solutionrelative:DatabaseT4D\\Stored Procedures\\SP_GameCopy_Disown.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E80D7E52-B59C-4E58-AA07-02F7849C3F03}|DatabaseT4D\\DatabaseT4D.sqlproj|C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DatabaseT4D\\Stored Procedures\\SP_GameCopy_GetByOwnerId.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{E80D7E52-B59C-4E58-AA07-02F7849C3F03}|DatabaseT4D\\DatabaseT4D.sqlproj|solutionrelative:DatabaseT4D\\Stored Procedures\\SP_GameCopy_GetByOwnerId.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\dal\\services\\game_and_tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|solutionrelative:dal\\services\\game_and_tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\dal\\services\\gamecopyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|solutionrelative:dal\\services\\gamecopyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\dal\\services\\jeuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|solutionrelative:dal\\services\\jeuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\dal\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|solutionrelative:dal\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\dal\\mappers\\jeumapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|solutionrelative:dal\\mappers\\jeumapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|solutionrelative:dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E80D7E52-B59C-4E58-AA07-02F7849C3F03}|DatabaseT4D\\DatabaseT4D.sqlproj|C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DatabaseT4D\\Stored Procedures\\SP_GameCopy_Disown.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{E80D7E52-B59C-4E58-AA07-02F7849C3F03}|DatabaseT4D\\DatabaseT4D.sqlproj|solutionrelative:DatabaseT4D\\Stored Procedures\\SP_GameCopy_Disown.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E80D7E52-B59C-4E58-AA07-02F7849C3F03}|DatabaseT4D\\DatabaseT4D.sqlproj|C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DatabaseT4D\\Stored Procedures\\SP_GameCopy_GetByOwnerId.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{E80D7E52-B59C-4E58-AA07-02F7849C3F03}|DatabaseT4D\\DatabaseT4D.sqlproj|solutionrelative:DatabaseT4D\\Stored Procedures\\SP_GameCopy_GetByOwnerId.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\dal\\entities\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,119 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SP_GameCopy_GetByOwnerId.sql ",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DatabaseT4D\\Stored Procedures\\SP_GameCopy_GetByOwnerId.sql",
-              "RelativeDocumentMoniker": "DatabaseT4D\\Stored Procedures\\SP_GameCopy_GetByOwnerId.sql",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DatabaseT4D\\Stored Procedures\\SP_GameCopy_GetByOwnerId.sql\r\n(localdb)\\ProjectModels.DatabaseT4D\r\n(DELLUSION\\Jessica)",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-12T15:44:16.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameCopy.cs",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Entities\\GameCopy.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\GameCopy.cs",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Entities\\GameCopy.cs",
-              "RelativeToolTip": "DAL\\Entities\\GameCopy.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "JeuMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Mappers\\JeuMapper.cs",
+              "RelativeDocumentMoniker": "DAL\\Mappers\\JeuMapper.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Mappers\\JeuMapper.cs",
+              "RelativeToolTip": "DAL\\Mappers\\JeuMapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:40:17.144Z",
+              "WhenOpened": "2025-03-12T17:52:36.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SP_GameCopy_Disown.sql ",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DatabaseT4D\\Stored Procedures\\SP_GameCopy_Disown.sql",
-              "RelativeDocumentMoniker": "DatabaseT4D\\Stored Procedures\\SP_GameCopy_Disown.sql",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DatabaseT4D\\Stored Procedures\\SP_GameCopy_Disown.sql\r\n(localdb)\\ProjectModels.DatabaseT4D\r\n(DELLUSION\\Jessica)",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-12T15:31:13.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "DAL\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\UserService.cs",
-              "RelativeToolTip": "DAL\\Services\\UserService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwA0AAAAAAAAAAAAAAA==",
+              "Title": "Jeu.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Entities\\Jeu.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Jeu.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Entities\\Jeu.cs",
+              "RelativeToolTip": "DAL\\Entities\\Jeu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T14:33:54.147Z",
+              "WhenOpened": "2025-03-12T17:26:24.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TagService.cs",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\TagService.cs",
-              "RelativeDocumentMoniker": "DAL\\Services\\TagService.cs",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\TagService.cs",
-              "RelativeToolTip": "DAL\\Services\\TagService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T14:33:35.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "JeuService.cs",
               "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\JeuService.cs",
               "RelativeDocumentMoniker": "DAL\\Services\\JeuService.cs",
               "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\JeuService.cs",
               "RelativeToolTip": "DAL\\Services\\JeuService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACEAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA4wFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T14:33:09.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GameCopyService.cs",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\GameCopyService.cs",
-              "RelativeDocumentMoniker": "DAL\\Services\\GameCopyService.cs",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\GameCopyService.cs",
-              "RelativeToolTip": "DAL\\Services\\GameCopyService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T14:32:47.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Game_And_TagService.cs",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\Game_And_TagService.cs",
-              "RelativeDocumentMoniker": "DAL\\Services\\Game_And_TagService.cs",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\Game_And_TagService.cs",
-              "RelativeToolTip": "DAL\\Services\\Game_And_TagService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T14:32:16.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmpruntService.cs",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\EmpruntService.cs",
-              "RelativeDocumentMoniker": "DAL\\Services\\EmpruntService.cs",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\EmpruntService.cs",
-              "RelativeToolTip": "DAL\\Services\\EmpruntService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T14:31:40.166Z",
               "EditorCaption": ""
             }
           ]
