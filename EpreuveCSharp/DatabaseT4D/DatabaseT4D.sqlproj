@@ -81,6 +81,8 @@
     <Build Include="Stored Procedures\SP_GameCopy_Create.sql" />
     <Build Include="Stored Procedures\SP_GameCopy_GetByOwnerId.sql" />
     <Build Include="Stored Procedures\SP_GameCopy_Update.sql" />
+    <Build Include="Stored Procedures\SP_Emprunt_Create.sql" />
+    <Build Include="Stored Procedures\SP_Emprunt_Update.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="DatabaseT4D.refactorlog" />
