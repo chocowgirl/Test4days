@@ -73,7 +73,6 @@
   <ItemGroup>
     <None Include="DatabaseT4D.publish.xml" />
     <None Include="DatabaseT4D_1.publish.xml" />
-    <None Include="DatabaseT4D_2.publish.xml" />
     <None Include="DatabaseT4D_3.publish.xml" />
   </ItemGroup>
   <ItemGroup>
