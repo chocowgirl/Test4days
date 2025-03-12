@@ -7,4 +7,5 @@ BEGIN
 			[Copy_Condition]
 		FROM [GameCopy]
 		WHERE [UserOwner_Id] = @user_id
+			AND [Is_Owned] = 1;
 END

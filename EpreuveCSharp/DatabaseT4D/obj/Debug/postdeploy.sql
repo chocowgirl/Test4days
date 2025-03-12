@@ -24,9 +24,9 @@ INSERT INTO [Jeu] ([Title], [Description], [Min_Age], [Max_Age], [Min_Players], 
 
 INSERT INTO [Jeu] ([Title], [Description], [Min_Age], [Max_Age], [Min_Players], [Max_Players]) VALUES ('Battleship', 'The game where you try to sink the fleet of your opponent', 5, 129, 2, 2);
 
-INSERT INTO [GameCopy] ([Copy_Id], [Jeu_Id], [UserOwner_Id], [Copy_Condition]) VALUES ('f93c27a1-5b6e-49d2-a4f0-8e3b7c1d6a25',1, '916a7414-b651-4662-a047-9bd359b98a98', 'incomplete');
+INSERT INTO [GameCopy] ([Copy_Id], [Jeu_Id], [UserOwner_Id], [Copy_Condition], [Is_Owned]) VALUES ('f93c27a1-5b6e-49d2-a4f0-8e3b7c1d6a25',1, '916a7414-b651-4662-a047-9bd359b98a98', 'incomplete', 0);
 
-INSERT INTO [GameCopy] ([Copy_Id], [Jeu_Id], [UserOwner_Id], [Copy_Condition]) VALUES ('b6a4f9e3-7c2d-4d8b-9f1e-3a6b5c2d9f87',2, '7cfc15b0-5391-44f2-9b83-c8da2ab13aa3', 'good');
+INSERT INTO [GameCopy] ([Copy_Id], [Jeu_Id], [UserOwner_Id], [Copy_Condition],[Is_Owned]) VALUES ('b6a4f9e3-7c2d-4d8b-9f1e-3a6b5c2d9f87',2, '7cfc15b0-5391-44f2-9b83-c8da2ab13aa3', 'good', 1);
 
 INSERT INTO [Game_And_Tag] ([Jeu_Id], [Tag_Name]) VALUES (1, 'Cards');
 INSERT INTO [Game_And_Tag] ([Jeu_Id], [Tag_Name]) VALUES (2, 'Board');

@@ -16,5 +16,7 @@ namespace DAL.Entities
 
         public string Copy_Condition { get; set; }
 
+        public bool Is_Owned { get; set; }
+
     }
 }
