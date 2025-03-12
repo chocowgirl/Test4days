@@ -92,6 +92,22 @@
 			</Relationship>
 			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="5" />
 		</Element>
+		<Element Type="SqlDefaultConstraint">
+			<Property Name="DefaultExpressionScript">
+				<Value><![CDATA[NEWID()]]></Value>
+			</Property>
+			<Relationship Name="DefiningTable">
+				<Entry>
+					<References Name="[dbo].[GameCopy]" />
+				</Entry>
+			</Relationship>
+			<Relationship Name="ForColumn">
+				<Entry>
+					<References Name="[dbo].[GameCopy].[Copy_Id]" />
+				</Entry>
+			</Relationship>
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="6" />
+		</Element>
 		<Element Type="SqlPrimaryKeyConstraint">
 			<Relationship Name="ColumnSpecifications">
 				<Entry>
@@ -109,7 +125,7 @@
 					<References Name="[dbo].[Tag]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="6" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="7" />
 		</Element>
 		<Element Type="SqlPrimaryKeyConstraint">
 			<Relationship Name="ColumnSpecifications">
@@ -128,7 +144,7 @@
 					<References Name="[dbo].[Emprunt]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="7" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="8" />
 		</Element>
 		<Element Type="SqlPrimaryKeyConstraint">
 			<Relationship Name="ColumnSpecifications">
@@ -147,7 +163,7 @@
 					<References Name="[dbo].[Jeu]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="8" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="9" />
 		</Element>
 		<Element Type="SqlPrimaryKeyConstraint">
 			<Relationship Name="ColumnSpecifications">
@@ -166,7 +182,7 @@
 					<References Name="[dbo].[User]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="9" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="10" />
 		</Element>
 		<Element Type="SqlPrimaryKeyConstraint">
 			<Relationship Name="ColumnSpecifications">
@@ -185,7 +201,7 @@
 					<References Name="[dbo].[GameCopy]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="10" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="11" />
 		</Element>
 		<Element Type="SqlCheckConstraint" Name="[dbo].[CK_Max_Age]">
 			<Property Name="CheckExpressionScript">
@@ -204,7 +220,7 @@
 					<References Name="[dbo].[Jeu]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="11" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="12" />
 		</Element>
 		<Element Type="SqlCheckConstraint" Name="[dbo].[CK_Max_Players]">
 			<Property Name="CheckExpressionScript">
@@ -223,7 +239,7 @@
 					<References Name="[dbo].[Jeu]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="12" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="13" />
 		</Element>
 		<Element Type="SqlCheckConstraint" Name="[dbo].[CK_Min_Age]">
 			<Property Name="CheckExpressionScript">
@@ -242,7 +258,7 @@
 					<References Name="[dbo].[Jeu]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="13" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="14" />
 		</Element>
 		<Element Type="SqlCheckConstraint" Name="[dbo].[CK_Min_Players]">
 			<Property Name="CheckExpressionScript">
@@ -261,7 +277,7 @@
 					<References Name="[dbo].[Jeu]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="14" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="15" />
 		</Element>
 		<Element Type="SqlCheckConstraint" Name="[dbo].[Copy_Condition]">
 			<Property Name="CheckExpressionScript">
@@ -277,7 +293,7 @@
 					<References Name="[dbo].[GameCopy]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="15" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="16" />
 		</Element>
 		<Element Type="SqlTable" Name="[dbo].[Emprunt]">
 			<Property Name="IsAnsiNullsOn" Value="True" />
@@ -297,7 +313,7 @@
 								</Element>
 							</Entry>
 						</Relationship>
-						<AttachedAnnotation Disambiguator="7" />
+						<AttachedAnnotation Disambiguator="8" />
 					</Element>
 				</Entry>
 				<Entry>
@@ -415,11 +431,11 @@
 					<References ExternalSource="BuiltIns" Name="[dbo]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="16" />
 			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="17" />
 			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="18" />
 			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="19" />
 			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="20" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="21" />
 		</Element>
 		<Element Type="SqlCheckConstraint" Name="[dbo].[Eval_By_Borrower]">
 			<Property Name="CheckExpressionScript">
@@ -435,7 +451,7 @@
 					<References Name="[dbo].[Emprunt]" />
 				</Entry>
 			</Relationship>
-			<AttachedAnnotation Disambiguator="17" />
+			<AttachedAnnotation Disambiguator="18" />
 		</Element>
 		<Element Type="SqlCheckConstraint" Name="[dbo].[Eval_By_Lender]">
 			<Property Name="CheckExpressionScript">
@@ -451,7 +467,7 @@
 					<References Name="[dbo].[Emprunt]" />
 				</Entry>
 			</Relationship>
-			<AttachedAnnotation Disambiguator="16" />
+			<AttachedAnnotation Disambiguator="17" />
 		</Element>
 		<Element Type="SqlForeignKeyConstraint" Name="[dbo].[FK_Borrower_Id]">
 			<Relationship Name="Columns">
@@ -474,7 +490,7 @@
 					<References Name="[dbo].[User]" />
 				</Entry>
 			</Relationship>
-			<AttachedAnnotation Disambiguator="19" />
+			<AttachedAnnotation Disambiguator="20" />
 		</Element>
 		<Element Type="SqlForeignKeyConstraint" Name="[dbo].[FK_GameCopy_Id]">
 			<Relationship Name="Columns">
@@ -497,7 +513,7 @@
 					<References Name="[dbo].[GameCopy]" />
 				</Entry>
 			</Relationship>
-			<AttachedAnnotation Disambiguator="18" />
+			<AttachedAnnotation Disambiguator="19" />
 		</Element>
 		<Element Type="SqlForeignKeyConstraint" Name="[dbo].[FK_Jeu_Id]">
 			<Relationship Name="Columns">
@@ -520,7 +536,7 @@
 					<References Name="[dbo].[Jeu]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="21" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="22" />
 		</Element>
 		<Element Type="SqlForeignKeyConstraint" Name="[dbo].[FK_Lender_Id]">
 			<Relationship Name="Columns">
@@ -543,7 +559,7 @@
 					<References Name="[dbo].[User]" />
 				</Entry>
 			</Relationship>
-			<AttachedAnnotation Disambiguator="20" />
+			<AttachedAnnotation Disambiguator="21" />
 		</Element>
 		<Element Type="SqlForeignKeyConstraint" Name="[dbo].[FK_Tagged_Jeu_Id]">
 			<Relationship Name="Columns">
@@ -566,7 +582,7 @@
 					<References Name="[dbo].[Jeu]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="22" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="23" />
 		</Element>
 		<Element Type="SqlForeignKeyConstraint" Name="[dbo].[FK_Tagged_Jeu_Tag]">
 			<Relationship Name="Columns">
@@ -589,7 +605,7 @@
 					<References Name="[dbo].[Tag]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="23" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="24" />
 		</Element>
 		<Element Type="SqlForeignKeyConstraint" Name="[dbo].[FK_UserOwner_Id]">
 			<Relationship Name="Columns">
@@ -612,7 +628,7 @@
 					<References Name="[dbo].[User]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="24" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="25" />
 		</Element>
 		<Element Type="SqlTable" Name="[dbo].[Game_And_Tag]">
 			<Property Name="IsAnsiNullsOn" Value="True" />
@@ -656,9 +672,9 @@
 					<References ExternalSource="BuiltIns" Name="[dbo]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="25" />
-			<AttachedAnnotation Disambiguator="22" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="26" />
 			<AttachedAnnotation Disambiguator="23" />
+			<AttachedAnnotation Disambiguator="24" />
 		</Element>
 		<Element Type="SqlTable" Name="[dbo].[GameCopy]">
 			<Property Name="IsAnsiNullsOn" Value="True" />
@@ -677,7 +693,8 @@
 								</Element>
 							</Entry>
 						</Relationship>
-						<AttachedAnnotation Disambiguator="10" />
+						<AttachedAnnotation Disambiguator="11" />
+						<AttachedAnnotation Disambiguator="6" />
 					</Element>
 				</Entry>
 				<Entry>
@@ -735,9 +752,9 @@
 					<References ExternalSource="BuiltIns" Name="[dbo]" />
 				</Entry>
 			</Relationship>
-			<AttachedAnnotation Disambiguator="21" />
-			<AttachedAnnotation Disambiguator="24" />
-			<AttachedAnnotation Disambiguator="15" />
+			<AttachedAnnotation Disambiguator="22" />
+			<AttachedAnnotation Disambiguator="25" />
+			<AttachedAnnotation Disambiguator="16" />
 		</Element>
 		<Element Type="SqlTable" Name="[dbo].[Jeu]">
 			<Property Name="IsAnsiNullsOn" Value="True" />
@@ -757,7 +774,7 @@
 								</Element>
 							</Entry>
 						</Relationship>
-						<AttachedAnnotation Disambiguator="8" />
+						<AttachedAnnotation Disambiguator="9" />
 					</Element>
 				</Entry>
 				<Entry>
@@ -896,11 +913,11 @@
 					<References ExternalSource="BuiltIns" Name="[dbo]" />
 				</Entry>
 			</Relationship>
-			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="26" />
-			<AttachedAnnotation Disambiguator="13" />
-			<AttachedAnnotation Disambiguator="11" />
+			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="27" />
 			<AttachedAnnotation Disambiguator="14" />
 			<AttachedAnnotation Disambiguator="12" />
+			<AttachedAnnotation Disambiguator="15" />
+			<AttachedAnnotation Disambiguator="13" />
 		</Element>
 		<Element Type="SqlPrimaryKeyConstraint" Name="[dbo].[PK_Game_And_Tag]">
 			<Relationship Name="ColumnSpecifications">
@@ -928,7 +945,7 @@
 					<References Name="[dbo].[Game_And_Tag]" />
 				</Entry>
 			</Relationship>
-			<AttachedAnnotation Disambiguator="25" />
+			<AttachedAnnotation Disambiguator="26" />
 		</Element>
 		<Element Type="SqlTable" Name="[dbo].[Tag]">
 			<Property Name="IsAnsiNullsOn" Value="True" />
@@ -948,7 +965,7 @@
 								</Element>
 							</Entry>
 						</Relationship>
-						<AttachedAnnotation Disambiguator="6" />
+						<AttachedAnnotation Disambiguator="7" />
 					</Element>
 				</Entry>
 			</Relationship>
@@ -975,7 +992,7 @@
 					<References Name="[dbo].[Jeu]" />
 				</Entry>
 			</Relationship>
-			<AttachedAnnotation Disambiguator="26" />
+			<AttachedAnnotation Disambiguator="27" />
 		</Element>
 		<Element Type="SqlTable" Name="[dbo].[User]">
 			<Property Name="IsAnsiNullsOn" Value="True" />
@@ -994,7 +1011,7 @@
 								</Element>
 							</Entry>
 						</Relationship>
-						<AttachedAnnotation Disambiguator="9" />
+						<AttachedAnnotation Disambiguator="10" />
 						<AttachedAnnotation Disambiguator="4" />
 					</Element>
 				</Entry>
