@@ -58,6 +58,8 @@
     <Folder Include="Properties" />
     <Folder Include="Tables" />
     <Folder Include="Scripts" />
+    <Folder Include="Functions" />
+    <Folder Include="Stored Procedures" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\User.sql" />
@@ -66,6 +68,19 @@
     <Build Include="Tables\Emprunt.sql" />
     <Build Include="Tables\Game_And_Tag.sql" />
     <Build Include="Tables\Tag.sql" />
+    <Build Include="Functions\SF_SaltAndHash.sql" />
+    <Build Include="Stored Procedures\SP_User_Create.sql" />
+    <Build Include="Stored Procedures\SP_User_CheckPassword.sql" />
+    <Build Include="Stored Procedures\SP_User_Update.sql" />
+    <Build Include="Stored Procedures\SP_User_Delete.sql" />
+    <Build Include="Stored Procedures\SP_User_GetById.sql" />
+    <Build Include="Stored Procedures\SP_Jeu_Create.sql" />
+    <Build Include="Stored Procedures\SP_Jeu_GetById.sql" />
+    <Build Include="Stored Procedures\SP_Jeu_GetAll.sql" />
+    <Build Include="Stored Procedures\SP_Tag_Create.sql" />
+    <Build Include="Stored Procedures\SP_GameCopy_Create.sql" />
+    <Build Include="Stored Procedures\SP_GameCopy_GetByOwnerId.sql" />
+    <Build Include="Stored Procedures\SP_GameCopy_Update.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="DatabaseT4D.refactorlog" />
