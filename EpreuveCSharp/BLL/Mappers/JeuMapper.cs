@@ -23,5 +23,20 @@ namespace BLL.Mappers
                 jeu.Date_Created);
         }
 
+
+        public static DAL.Entities.Jeu ToDAL(this BLL.Entities.Jeu jeu)
+        {
+            if(jeu is null) throw new ArgumentNullException(nameof(jeu));
+            return new DAL.Entities.Jeu()
+            {
+                Title = jeu.Title,
+                Description = jeu.Description,
+                Min_Age = jeu.Min_Age,
+                Max_Age = jeu.Max_Age,
+                Min_Players = jeu.Min_Players,
+                Max_Players = jeu.Max_Players,
+                Duration_Mins = jeu.Duration_Mins
+            };
+        }
     }
 }

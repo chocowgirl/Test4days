@@ -1,4 +1,5 @@
 ﻿using BLL.Entities;
+using BLL.Mappers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,8 +19,14 @@ namespace BLL.Services
 
         public IEnumerable<Jeu> Get()
         {
-            return _service.Get();
+            return _service.Get().Select(dal => dal.ToBLL());
         }
+
+        public Jeu Get(int jeu_id)
+        {
+            return _service.Get(jeu_id).ToBLL();
+        }
+
 
     }
 }
