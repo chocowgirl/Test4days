@@ -22,6 +22,7 @@ namespace BLL.Entities
         public DateOnly? Date_Deactivated { get; set; }
 
 
+        public User() { }
 
         public User(Guid user_Id, string email, string password, string pseudo, DateOnly date_Created, DateOnly? date_Deactivated)
         {

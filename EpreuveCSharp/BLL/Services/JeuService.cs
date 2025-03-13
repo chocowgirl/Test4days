@@ -27,6 +27,9 @@ namespace BLL.Services
             return _service.Get(jeu_id).ToBLL();
         }
 
-
+        public int Insert(Jeu jeu)
+        {
+            return _service.Insert(jeu.ToDAL());
+        }
     }
 }
