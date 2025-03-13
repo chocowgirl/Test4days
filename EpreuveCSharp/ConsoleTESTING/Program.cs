@@ -58,9 +58,53 @@ namespace ConsoleTESTING
             //    Console.WriteLine("Game not found.");
             //}
 
-            
+
+            //*******GET USER(DE SCRIPT POSTDEPLOYMENT) BY ID
+            //UserService us = new UserService();
+            //User u = us.Get(Guid.Parse("916a7414-b651-4662-a047-9bd359b98a98"));
+            //if (u != null)
+            //{
+            //    Console.WriteLine($"{u.User_Id} is the user Id for {u.Pseudo} from email: {u.Email}.  This user has been here since {u.Date_Created}");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("User not found.");
+            //}
 
 
+            ////***********INSERT NEW USER
+            //UserService us = new UserService();
+
+            //User newUser = new User
+            //{
+            //    Email = "dingdong@hotmail.com",
+            //    Password = "Test1234=",
+            //    Pseudo = "dingdongDon",
+            //};
+            //Guid newUserId = us.Insert(newUser);
+
+            //Console.WriteLine($"New user inserted with ID: {newUserId}");
+
+
+            ////*************USER UPDATE
+            //UserService uS = new UserService();
+
+            //Guid userId = new Guid("916a7414-b651-4662-a047-9bd359b98a98");
+            //User userToUpdate = uS.Get(userId);
+            //Console.WriteLine($"Before Update: {userToUpdate.User_Id} has pseudo of {userToUpdate.Pseudo}.");
+
+            //userToUpdate.Pseudo = "PseudoJohn123";
+
+            //uS.Update(userId, userToUpdate);
+
+            //User updatedUser = uS.Get(userId);
+            //Console.WriteLine($"After Update: {updatedUser.User_Id} has pseudo of {updatedUser.Pseudo}");
+
+
+            //**********USER DELETE (deactivating Don)
+            UserService uS = new UserService();
+            Guid userId = new Guid("6099ad13-166d-4cdf-8bfe-a4ba6be17b02");
+            uS.Delete(userId);
 
 
 

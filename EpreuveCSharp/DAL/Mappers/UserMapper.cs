@@ -19,8 +19,10 @@ namespace DAL.Mappers
                 Email = (string)record[nameof(User.Email)],
                 Password = "********",
                 Pseudo = (string)record[nameof(User.Pseudo)],
-                Date_Created = (DateOnly)record[nameof(User.Date_Created)],
-                Date_Deactivated = (record[nameof(User.Date_Deactivated)] is DBNull)? null : (DateOnly?)record[nameof(User.Date_Deactivated)]
+                Date_Created = DateOnly.FromDateTime((DateTime)record[nameof(User.Date_Created)]),
+                //Date_Deactivated = record[nameof(User.Date_Deactivated)] is DBNull
+                //    ? null
+                //    : DateOnly.FromDateTime((DateTime)record[nameof(User.Date_Deactivated)])
             };
 
         }
