@@ -3,7 +3,7 @@
 	@password NVARCHAR(32)
 AS
 BEGIN
-	SELECT COUNT([Email])
+	SELECT ([User_Id])
 	FROM [User]
 	WHERE [Email] = @email
 		AND [Password] = [dbo].[SF_SaltAndHash](@password,[Salt])
