@@ -43,7 +43,7 @@ namespace DAL.Services
                 {
                     command.CommandText = "SP_Jeu_GetById";
                     command.CommandType = CommandType.StoredProcedure;
-                    command.Parameters.AddWithValue("jeuId", jeu_id);
+                    command.Parameters.AddWithValue(nameof(jeu_id), jeu_id);
                     connection.Open();
                     using (SqlDataReader reader = command.ExecuteReader())
                     {

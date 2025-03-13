@@ -23,8 +23,7 @@ namespace DAL.Mappers
                 Max_Age = (int)record[nameof(Jeu.Max_Age)],
                 Min_Players = (int)record[nameof(Jeu.Min_Players)],
                 Max_Players = (int)record[nameof(Jeu.Max_Players)],
-                Duration_Mins = (record[nameof(Jeu.Duration_Mins)] is DBNull) ? null : (int?)record[nameof(Jeu.Duration_Mins)],
-                Date_Created = (DateOnly)record[nameof(Jeu.Date_Created)]
+                Duration_Mins = (record[nameof(Jeu.Duration_Mins)] is DBNull) ? null : (int?)record[nameof(Jeu.Duration_Mins)]
             };
 
         }

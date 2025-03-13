@@ -1,12 +1,116 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93B6004C-9230-4810-8948-3F1E7C91A34F}|ConsoleTESTING\\ConsoleTESTING.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\consoletesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B6004C-9230-4810-8948-3F1E7C91A34F}|ConsoleTESTING\\ConsoleTESTING.csproj|solutionrelative:consoletesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBT4D/True/SqlTable/dbo.User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBT4D/True/SqlTable/dbo.Jeu.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\dal\\services\\jeuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|solutionrelative:dal\\services\\jeuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\dal\\mappers\\jeumapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|solutionrelative:dal\\mappers\\jeumapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80D7E52-B59C-4E58-AA07-02F7849C3F03}|DatabaseT4D\\DatabaseT4D.sqlproj|C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DatabaseT4D\\Stored Procedures\\SP_Jeu_Create.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E80D7E52-B59C-4E58-AA07-02F7849C3F03}|DatabaseT4D\\DatabaseT4D.sqlproj|solutionrelative:DatabaseT4D\\Stored Procedures\\SP_Jeu_Create.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80D7E52-B59C-4E58-AA07-02F7849C3F03}|DatabaseT4D\\DatabaseT4D.sqlproj|C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DatabaseT4D\\Stored Procedures\\SP_Jeu_Create.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{E80D7E52-B59C-4E58-AA07-02F7849C3F03}|DatabaseT4D\\DatabaseT4D.sqlproj|solutionrelative:DatabaseT4D\\Stored Procedures\\SP_Jeu_Create.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.User [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBT4D/True/SqlTable/dbo.User.sql",
+              "ToolTip": "dbo.User [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-13T12:22:29.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SP_Jeu_Create.sql ",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DatabaseT4D\\Stored Procedures\\SP_Jeu_Create.sql",
+              "RelativeDocumentMoniker": "DatabaseT4D\\Stored Procedures\\SP_Jeu_Create.sql",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DatabaseT4D\\Stored Procedures\\SP_Jeu_Create.sql\r\n(localdb)\\ProjectModels.DatabaseT4D\r\n(DELLUSION\\Jessica)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-13T11:39:13.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JeuService.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\JeuService.cs",
+              "RelativeDocumentMoniker": "DAL\\Services\\JeuService.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\JeuService.cs",
+              "RelativeToolTip": "DAL\\Services\\JeuService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAawDcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:12:15.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JeuMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Mappers\\JeuMapper.cs",
+              "RelativeDocumentMoniker": "DAL\\Mappers\\JeuMapper.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Mappers\\JeuMapper.cs",
+              "RelativeToolTip": "DAL\\Mappers\\JeuMapper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:51:07.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Jeu [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBT4D/True/SqlTable/dbo.Jeu.sql",
+              "ToolTip": "dbo.Jeu [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-13T10:54:39.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ConsoleTESTING\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleTESTING\\Program.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ConsoleTESTING\\Program.cs",
+              "RelativeToolTip": "ConsoleTESTING\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:35:50.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
