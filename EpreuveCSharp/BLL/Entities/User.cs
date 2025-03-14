@@ -33,5 +33,6 @@ namespace BLL.Entities
             Date_Created = date_Created;
             Date_Deactivated = date_Deactivated;
         }
+
     }
 }

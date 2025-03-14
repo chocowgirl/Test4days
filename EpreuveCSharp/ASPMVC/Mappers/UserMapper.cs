@@ -30,5 +30,29 @@ namespace ASPMVC.Mappers
                 null
                 );
         }
+
+
+        public static UserEditForm ToEditForm(this User user)
+        {
+            if(user is null) throw new ArgumentNullException(nameof(user));
+            return new UserEditForm()
+            {
+                Pseudo = user.Pseudo
+            };
+        }
+
+        public static User ToBLL(this UserEditForm user)
+        {
+            if (user is null) throw new ArgumentNullException(nameof(user));
+            return new User(
+                Guid.Empty,
+                "",
+                "",
+                user.Pseudo,
+                DateOnly.FromDateTime(DateTime.Now),
+                null
+                );
+
+        }
     }
 }

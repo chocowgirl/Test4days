@@ -7,20 +7,36 @@
       "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\models\\user\\usereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\models\\user\\usereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{85E3BA69-B7C2-402E-9919-855A1460DB1A}|BLL\\BLL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\bll\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E3BA69-B7C2-402E-9919-855A1460DB1A}|BLL\\BLL.csproj|solutionrelative:bll\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\models\\user\\usercreateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\models\\user\\usercreateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85E3BA69-B7C2-402E-9919-855A1460DB1A}|BLL\\BLL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\bll\\services\\jeuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,8 +54,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPMVC\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "ASPMVC\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T14:13:01.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASPMVC\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "ASPMVC\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T14:03:49.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\BLL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BLL\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\BLL\\Entities\\User.cs",
+              "RelativeToolTip": "BLL\\Entities\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:51:40.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Models\\User\\UserEditForm.cs",
+              "RelativeDocumentMoniker": "ASPMVC\\Models\\User\\UserEditForm.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Models\\User\\UserEditForm.cs",
+              "RelativeToolTip": "ASPMVC\\Models\\User\\UserEditForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:19:16.597Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -55,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Views\\User\\Create.cshtml",
               "RelativeDocumentMoniker": "ASPMVC\\Views\\User\\Create.cshtml",
@@ -63,51 +131,50 @@
               "RelativeToolTip": "ASPMVC\\Views\\User\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T12:25:27.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T12:25:27.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UserMapper.cs",
               "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Mappers\\UserMapper.cs",
               "RelativeDocumentMoniker": "ASPMVC\\Mappers\\UserMapper.cs",
               "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Mappers\\UserMapper.cs",
               "RelativeToolTip": "ASPMVC\\Mappers\\UserMapper.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T11:57:17.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ASPMVC\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Controllers\\UserController.cs",
               "RelativeToolTip": "ASPMVC\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T11:49:22.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "UserCreateForm.cs",
               "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Models\\User\\UserCreateForm.cs",
               "RelativeDocumentMoniker": "ASPMVC\\Models\\User\\UserCreateForm.cs",
               "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Models\\User\\UserCreateForm.cs",
               "RelativeToolTip": "ASPMVC\\Models\\User\\UserCreateForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T11:27:10.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "JeuService.cs",
               "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\BLL\\Services\\JeuService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\JeuService.cs",
@@ -115,12 +182,11 @@
               "RelativeToolTip": "BLL\\Services\\JeuService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T11:07:40.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T11:07:40.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\BLL\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
