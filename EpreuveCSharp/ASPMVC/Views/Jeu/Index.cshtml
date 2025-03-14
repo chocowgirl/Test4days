@@ -1,0 +1,77 @@
+﻿@model IEnumerable<ASPMVC.Models.Jeu.JeuListItem>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Jeu_Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Min_Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Max_Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Min_Players)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Max_Players)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Duration_Mins)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Jeu_Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Min_Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Max_Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Min_Players)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Max_Players)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Duration_Mins)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.Jeu_Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Jeu_Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Jeu_Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
