@@ -8,7 +8,7 @@ namespace ASPMVC.Controllers
 {
     public class JeuController : Controller
     {
-        private JeuService _jeuService;
+        private BLL.Services.JeuService _jeuService;
 
         public JeuController()
         {
@@ -32,7 +32,8 @@ namespace ASPMVC.Controllers
         // GET: JeuController/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            JeuDetails model = _jeuService.Get(id).ToDetails();
+            return View(model);
         }
 
         // GET: JeuController/Create

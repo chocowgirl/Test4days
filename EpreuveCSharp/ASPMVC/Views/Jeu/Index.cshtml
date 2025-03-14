@@ -21,21 +21,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.Description)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Min_Age)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Max_Age)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Min_Players)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Max_Players)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Duration_Mins)
-            </th>
+
             <th></th>
         </tr>
     </thead>
@@ -51,21 +37,7 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Description)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Min_Age)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Max_Age)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Min_Players)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Max_Players)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Duration_Mins)
-            </td>
+
             <td>
                 @Html.ActionLink("Edit", "Edit", new { id=item.Jeu_Id }) |
                     @Html.ActionLink("Details", "Details", new { id = item.Jeu_Id }) |

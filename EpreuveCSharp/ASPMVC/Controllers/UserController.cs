@@ -1,4 +1,4 @@
-﻿using ASPMVC.Models.Jeu;
+﻿using ASPMVC.Mappers;
 using ASPMVC.Models.User;
 using BLL.Services;
 using Microsoft.AspNetCore.Http;
@@ -26,7 +26,7 @@ namespace ASPMVC.Controllers
         // GET: UserController/Details/5
         public ActionResult Details(Guid id)
         {
-            UserDetails model = _userService.Get(id)
+            UserDetails model = _userService.Get(id).ToDetails();
             return View(model);
         }
 
