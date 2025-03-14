@@ -65,3 +65,5 @@ C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\ConsoleTESTING\obj\Debug\n
 C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\ConsoleTESTING\obj\Debug\net8.0\ConsoleTESTING.pdb
 C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\ConsoleTESTING\obj\Debug\net8.0\ConsoleTESTING.genruntimeconfig.cache
 C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\ConsoleTESTING\obj\Debug\net8.0\ref\ConsoleTESTING.dll
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\ConsoleTESTING\bin\Debug\net8.0\BLL.dll
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\ConsoleTESTING\bin\Debug\net8.0\BLL.pdb

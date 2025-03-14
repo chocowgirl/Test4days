@@ -28,6 +28,9 @@ namespace BLL.Entities
         public DateOnly Date_Created { get; set; }
 
 
+
+        public Jeu() { }
+
         public Jeu(int jeu_Id, string title, string description, int min_Age, int max_Age, int min_Players, int max_Players, int? duration_Mins, DateOnly date_Created)
         {
             Jeu_Id = jeu_Id;

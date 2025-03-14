@@ -14,7 +14,3 @@ C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\DatabaseT4D\bin\Debug\Data
 C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\DatabaseT4D\obj\Debug\DatabaseT4D.sqlproj.AssemblyReference.cache
 C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\DatabaseT4D\obj\Debug\DatabaseT4D.dll
 C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\DatabaseT4D\obj\Debug\DatabaseT4D.pdb
-C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\DatabaseT4D\obj\Debug\Model.xml
-C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\DatabaseT4D\obj\Debug\refactor.xml
-C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\DatabaseT4D\obj\Debug\postdeploy.sql
-C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\DatabaseT4D\obj\Debug\predeploy.sql

@@ -1,5 +1,7 @@
 ﻿using DAL.Entities;
 using DAL.Services;
+//using BLL.Entities;
+//using BLL.Services;
 using Microsoft.Identity.Client;
 
 namespace ConsoleTESTING
@@ -48,7 +50,7 @@ namespace ConsoleTESTING
 
             //******GET NEWLY INSERTED JEU BY ID
             //JeuService s4 = new JeuService();
-            //Jeu jeu3 = s4.Get(1002);
+            //Jeu jeu3 = s4.Get(3);
             //if (jeu3 != null)
             //{
             //    Console.WriteLine($"{jeu3.Title} is here!");
@@ -91,9 +93,10 @@ namespace ConsoleTESTING
 
             //Guid userId = new Guid("916a7414-b651-4662-a047-9bd359b98a98");
             //User userToUpdate = uS.Get(userId);
+
             //Console.WriteLine($"Before Update: {userToUpdate.User_Id} has pseudo of {userToUpdate.Pseudo}.");
 
-            //userToUpdate.Pseudo = "PseudoJohn123";
+            //userToUpdate.Pseudo = "PseudoJohn";
 
             //uS.Update(userId, userToUpdate);
 
@@ -102,10 +105,9 @@ namespace ConsoleTESTING
 
 
             //**********USER DELETE (deactivating Don)
-            UserService uS = new UserService();
-            Guid userId = new Guid("6099ad13-166d-4cdf-8bfe-a4ba6be17b02");
-            uS.Delete(userId);
-
+            //UserService uS = new UserService();
+            //Guid userId = new Guid("0b673808-3c0b-4596-83a1-ca421a1ec8dc");
+            //uS.Delete(userId);
 
 
         }

@@ -28,15 +28,19 @@ namespace BLL.Services
             return _service.Insert(user.ToDAL());
         }
 
-        public void Update(string pseudo, Guid user_id)
+        public void Update(Guid user_id, User updatedUser)
         {
-            _service.Update(user_id, new User { Pseudo = pseudo }.ToDAL());
+            _service.Update(user_id, updatedUser.ToDAL());
         }
-
 
         public void Delete(Guid user_id)
         {
             _service.Delete(user_id);
+        }
+
+        public Guid CheckPassword(string email, string password)
+        {
+            return _service.CheckPassword(email, password);
         }
     }
 }
