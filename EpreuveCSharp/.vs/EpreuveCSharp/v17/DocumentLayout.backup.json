@@ -7,46 +7,31 @@
       "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\controllers\\jeucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\models\\jeu\\jeulistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\models\\jeu\\jeulistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\mappers\\jeumapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\mappers\\jeumapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\models\\user\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\models\\user\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\views\\jeu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\views\\jeu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\models\\jeu\\jeudetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\models\\jeu\\jeudetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\views\\jeu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\views\\jeu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93B6004C-9230-4810-8948-3F1E7C91A34F}|ConsoleTESTING\\ConsoleTESTING.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\consoletesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93B6004C-9230-4810-8948-3F1E7C91A34F}|ConsoleTESTING\\ConsoleTESTING.csproj|solutionrelative:consoletesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBT4D/True/SqlTable/dbo.User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85E3BA69-B7C2-402E-9919-855A1460DB1A}|BLL\\BLL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85E3BA69-B7C2-402E-9919-855A1460DB1A}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBT4D/True/SqlTable/dbo.Jeu.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85E3BA69-B7C2-402E-9919-855A1460DB1A}|BLL\\BLL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\bll\\entities\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85E3BA69-B7C2-402E-9919-855A1460DB1A}|BLL\\BLL.csproj|solutionrelative:bll\\entities\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,8 +41,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ASPMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Program.cs",
+              "RelativeToolTip": "ASPMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:32:04.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ASPMVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ASPMVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:21:52.983Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -66,140 +77,72 @@
               "RelativeDocumentMoniker": "ASPMVC\\Controllers\\JeuController.cs",
               "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Controllers\\JeuController.cs",
               "RelativeToolTip": "ASPMVC\\Controllers\\JeuController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAYwCAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T06:34:46.744Z",
+              "WhenOpened": "2025-03-14T09:19:53.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "ASPMVC\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Controllers\\UserController.cs",
-              "RelativeToolTip": "ASPMVC\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T05:58:30.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "JeuDetails.cs",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Models\\Jeu\\JeuDetails.cs",
-              "RelativeDocumentMoniker": "ASPMVC\\Models\\Jeu\\JeuDetails.cs",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Models\\Jeu\\JeuDetails.cs",
-              "RelativeToolTip": "ASPMVC\\Models\\Jeu\\JeuDetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T07:55:33.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Mappers\\UserMapper.cs",
-              "RelativeDocumentMoniker": "ASPMVC\\Mappers\\UserMapper.cs",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Mappers\\UserMapper.cs",
-              "RelativeToolTip": "ASPMVC\\Mappers\\UserMapper.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T07:44:48.8Z",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Views\\Jeu\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASPMVC\\Views\\Jeu\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Views\\Jeu\\Details.cshtml",
+              "RelativeToolTip": "ASPMVC\\Views\\Jeu\\Details.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T09:11:50.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserDetails.cs",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Models\\User\\UserDetails.cs",
-              "RelativeDocumentMoniker": "ASPMVC\\Models\\User\\UserDetails.cs",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Models\\User\\UserDetails.cs",
-              "RelativeToolTip": "ASPMVC\\Models\\User\\UserDetails.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T07:25:43.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JeuMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Mappers\\JeuMapper.cs",
-              "RelativeDocumentMoniker": "ASPMVC\\Mappers\\JeuMapper.cs",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Mappers\\JeuMapper.cs",
-              "RelativeToolTip": "ASPMVC\\Mappers\\JeuMapper.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T06:59:27.989Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPMVC\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "ASPMVC\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T09:06:01.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JeuListItem.cs",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Models\\Jeu\\JeuListItem.cs",
-              "RelativeDocumentMoniker": "ASPMVC\\Models\\Jeu\\JeuListItem.cs",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Models\\Jeu\\JeuListItem.cs",
-              "RelativeToolTip": "ASPMVC\\Models\\Jeu\\JeuListItem.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T06:25:55.499Z",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Views\\Jeu\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPMVC\\Views\\Jeu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Views\\Jeu\\Index.cshtml",
+              "RelativeToolTip": "ASPMVC\\Views\\Jeu\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T09:04:58.805Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\BLL\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\BLL\\Services\\UserService.cs",
-              "RelativeToolTip": "BLL\\Services\\UserService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T04:59:00.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "dbo.Jeu.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBT4D/True/SqlTable/dbo.Jeu.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBT4D/True/SqlTable/dbo.Jeu.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-14T04:47:32.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Jeu.cs",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\BLL\\Entities\\Jeu.cs",
-              "RelativeDocumentMoniker": "BLL\\Entities\\Jeu.cs",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\BLL\\Entities\\Jeu.cs",
-              "RelativeToolTip": "BLL\\Entities\\Jeu.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T04:44:45.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "dbo.User.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBT4D/True/SqlTable/dbo.User.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBT4D/True/SqlTable/dbo.User.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-14T04:25:00.798Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ConsoleTESTING\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleTESTING\\Program.cs",
-              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ConsoleTESTING\\Program.cs",
-              "RelativeToolTip": "ConsoleTESTING\\Program.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAQwG0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T04:14:05.651Z"
+              "Title": "dbo.User [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBT4D/True/SqlTable/dbo.User.sql",
+              "ToolTip": "dbo.User [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-14T08:54:28.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASPMVC\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "ASPMVC\\Views\\User\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T08:52:35.482Z",
+              "EditorCaption": ""
             }
           ]
         }

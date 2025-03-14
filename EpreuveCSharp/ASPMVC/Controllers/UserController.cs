@@ -10,9 +10,9 @@ namespace ASPMVC.Controllers
     {
         private UserService _userService;
 
-        public UserController()
+        public UserController(UserService userService)
         {
-            _userService = new UserService();
+            _userService = userService;
         }
 
         // GET: UserController
@@ -26,8 +26,15 @@ namespace ASPMVC.Controllers
         // GET: UserController/Details/5
         public ActionResult Details(Guid id)
         {
-            UserDetails model = _userService.Get(id).ToDetails();
-            return View(model);
+            try
+            {
+                UserDetails model = _userService.Get(id).ToDetails();
+                return View(model);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", "Home");
+            }
         }
 
         // GET: UserController/Create

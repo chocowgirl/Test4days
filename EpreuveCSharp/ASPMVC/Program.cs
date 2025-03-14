@@ -9,6 +9,10 @@ namespace ASPMVC
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            //*****ADD OUR SERVICES (THOSE OF THE BLL AND THE DAL)
+            builder.Services.AddScoped<BLL.Services.UserService>();
+            builder.Services.AddScoped<DAL.Services.UserService>();
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

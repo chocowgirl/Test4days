@@ -10,9 +10,9 @@ namespace ASPMVC.Controllers
     {
         private BLL.Services.JeuService _jeuService;
 
-        public JeuController()
+        public JeuController(JeuService jeuService)
         {
-            _jeuService = new JeuService();
+            _jeuService = jeuService;
         }
 
         // GET: JeuController
@@ -32,9 +32,20 @@ namespace ASPMVC.Controllers
         // GET: JeuController/Details/5
         public ActionResult Details(int id)
         {
-            JeuDetails model = _jeuService.Get(id).ToDetails();
-            return View(model);
+            try
+            {
+                JeuDetails model = _jeuService.Get(id).ToDetails();
+                return View(model);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", "Home");
+            }
+
         }
+
+
+
 
         // GET: JeuController/Create
         public ActionResult Create()
