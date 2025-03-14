@@ -48,11 +48,13 @@ namespace ASPMVC.Controllers
         // POST: UserController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(UserCreateForm form)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                if (!ModelState.IsValid) throw new ArgumentException();
+                Guid id = _userService.Insert(form.ToBLL());
+                return RedirectToAction(nameof(Details), new {id = id});
             }
             catch
             {

@@ -17,5 +17,18 @@ namespace ASPMVC.Mappers
             };
         }
 
+
+        public static User ToBLL(this UserCreateForm user)
+        {
+            if(user is null) throw new ArgumentNullException(nameof(user));
+            return new User(
+                Guid.NewGuid(),
+                user.Email,
+                user.Password,
+                user.Pseudo,
+                DateOnly.FromDateTime(DateTime.Now),
+                null
+                );
+        }
     }
 }
