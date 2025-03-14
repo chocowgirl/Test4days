@@ -2386,6 +2386,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "Common": "1.0.0",
           "DAL": "1.0.0"
         },
         "compile": {
@@ -2395,10 +2396,21 @@
           "bin/placeholder/BLL.dll": {}
         }
       },
+      "Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.dll": {}
+        }
+      },
       "DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "Common": "1.0.0",
           "Microsoft.Data.SqlClient": "6.0.1"
         },
         "compile": {
@@ -6613,6 +6625,11 @@
       "path": "../BLL/BLL.csproj",
       "msbuildProject": "../BLL/BLL.csproj"
     },
+    "Common/1.0.0": {
+      "type": "project",
+      "path": "../Common/Common.csproj",
+      "msbuildProject": "../Common/Common.csproj"
+    },
     "DAL/1.0.0": {
       "type": "project",
       "path": "../DAL/DAL.csproj",
@@ -6622,6 +6639,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "BLL >= 1.0.0",
+      "Common >= 1.0.0",
       "DAL >= 1.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.7"
     ]
@@ -6656,6 +6674,9 @@
           "projectReferences": {
             "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\BLL\\BLL.csproj": {
               "projectPath": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\BLL\\BLL.csproj"
+            },
+            "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\Common\\Common.csproj"
             },
             "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\DAL.csproj": {
               "projectPath": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\DAL.csproj"

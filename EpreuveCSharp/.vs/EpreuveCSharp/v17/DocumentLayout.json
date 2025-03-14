@@ -1,12 +1,173 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\controllers\\jeucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\controllers\\jeucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\aspmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE32EBC-99BD-43EB-8874-78E9492607DD}|ASPMVC\\ASPMVC.csproj|solutionrelative:aspmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3BA69-B7C2-402E-9919-855A1460DB1A}|BLL\\BLL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\bll\\services\\jeuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E3BA69-B7C2-402E-9919-855A1460DB1A}|BLL\\BLL.csproj|solutionrelative:bll\\services\\jeuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\dal\\services\\jeuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|solutionrelative:dal\\services\\jeuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F47A289-49BB-4216-8352-A4F7F11C8302}|Common\\Common.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\common\\repositories\\ijeurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F47A289-49BB-4216-8352-A4F7F11C8302}|Common\\Common.csproj|solutionrelative:common\\repositories\\ijeurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F47A289-49BB-4216-8352-A4F7F11C8302}|Common\\Common.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\common\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F47A289-49BB-4216-8352-A4F7F11C8302}|Common\\Common.csproj|solutionrelative:common\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3BA69-B7C2-402E-9919-855A1460DB1A}|BLL\\BLL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E3BA69-B7C2-402E-9919-855A1460DB1A}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|c:\\users\\jessica\\source\\repos\\test4days\\epreuvecsharp\\dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950A2434-37C5-48CC-BF79-C1A9A1D56376}|DAL\\DAL.csproj|solutionrelative:dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JeuController.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Controllers\\JeuController.cs",
+              "RelativeDocumentMoniker": "ASPMVC\\Controllers\\JeuController.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Controllers\\JeuController.cs",
+              "RelativeToolTip": "ASPMVC\\Controllers\\JeuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:55:24.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ASPMVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ASPMVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:52:04.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JeuService.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\BLL\\Services\\JeuService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\JeuService.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\BLL\\Services\\JeuService.cs",
+              "RelativeToolTip": "BLL\\Services\\JeuService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:44:28.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JeuService.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\JeuService.cs",
+              "RelativeDocumentMoniker": "DAL\\Services\\JeuService.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\JeuService.cs",
+              "RelativeToolTip": "DAL\\Services\\JeuService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:43:39.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IJeuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\Common\\Repositories\\IJeuRepository.cs",
+              "RelativeDocumentMoniker": "Common\\Repositories\\IJeuRepository.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\Common\\Repositories\\IJeuRepository.cs",
+              "RelativeToolTip": "Common\\Repositories\\IJeuRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:40:19.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ASPMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\ASPMVC\\Program.cs",
+              "RelativeToolTip": "ASPMVC\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:35:48.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:29:01.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "DAL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\DAL\\Services\\UserService.cs",
+              "RelativeToolTip": "DAL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:27:03.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\Common\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Common\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\Common\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Common\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:06:15.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

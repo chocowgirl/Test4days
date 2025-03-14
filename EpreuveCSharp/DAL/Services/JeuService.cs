@@ -7,10 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DAL.Mappers;
+using Common.Repositories;
 
 namespace DAL.Services
 {
-    public class JeuService
+    public class JeuService : IJeuRepository<Jeu>
     {
         private const string ConnectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=DBT4D;Integrated Security=True;";
 

@@ -1,3 +1,5 @@
+using Common.Repositories;
+
 namespace ASPMVC
 {
     public class Program
@@ -10,10 +12,11 @@ namespace ASPMVC
             builder.Services.AddControllersWithViews();
 
             //*****ADD OUR SERVICES (THOSE OF THE BLL AND THE DAL)
-            builder.Services.AddScoped<BLL.Services.UserService>();
-            builder.Services.AddScoped<DAL.Services.UserService>();
-            builder.Services.AddScoped<BLL.Services.JeuService>();
-            builder.Services.AddScoped<DAL.Services.JeuService>();
+            builder.Services.AddScoped<IUserRepository<BLL.Entities.User>, BLL.Services.UserService>();
+            builder.Services.AddScoped<IUserRepository<DAL.Entities.User>, DAL.Services.UserService>();
+            
+            builder.Services.AddScoped<IJeuRepository<BLL.Entities.Jeu>, BLL.Services.JeuService>();
+            builder.Services.AddScoped<IJeuRepository<DAL.Entities.Jeu>, DAL.Services.JeuService>();
 
             var app = builder.Build();
 

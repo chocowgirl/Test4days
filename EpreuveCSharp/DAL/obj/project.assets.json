@@ -642,6 +642,16 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.dll": {}
+        }
       }
     }
   },
@@ -1658,10 +1668,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Common/1.0.0": {
+      "type": "project",
+      "path": "../Common/Common.csproj",
+      "msbuildProject": "../Common/Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Common >= 1.0.0",
       "Microsoft.Data.SqlClient >= 6.0.1"
     ]
   },
@@ -1692,7 +1708,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\Jessica\\source\\repos\\Test4days\\EpreuveCSharp\\Common\\Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

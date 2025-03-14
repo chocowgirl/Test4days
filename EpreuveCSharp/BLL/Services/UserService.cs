@@ -1,5 +1,6 @@
 ﻿using BLL.Entities;
 using BLL.Mappers;
+using Common.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Services
 {
-    public class UserService
+    public class UserService : IUserRepository<User>
     {
         private DAL.Services.UserService _service;
 

@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTESTING", "ConsoleTE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "BLL\BLL.csproj", "{85E3BA69-B7C2-402E-9919-855A1460DB1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPMVC", "ASPMVC\ASPMVC.csproj", "{DEE32EBC-99BD-43EB-8874-78E9492607DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPMVC", "ASPMVC\ASPMVC.csproj", "{DEE32EBC-99BD-43EB-8874-78E9492607DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{7F47A289-49BB-4216-8352-A4F7F11C8302}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{DEE32EBC-99BD-43EB-8874-78E9492607DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEE32EBC-99BD-43EB-8874-78E9492607DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEE32EBC-99BD-43EB-8874-78E9492607DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F47A289-49BB-4216-8352-A4F7F11C8302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F47A289-49BB-4216-8352-A4F7F11C8302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F47A289-49BB-4216-8352-A4F7F11C8302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F47A289-49BB-4216-8352-A4F7F11C8302}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,6 +1,8 @@
 ﻿using ASPMVC.Mappers;
 using ASPMVC.Models.Jeu;
+using BLL.Entities;
 using BLL.Services;
+using Common.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,9 +10,9 @@ namespace ASPMVC.Controllers
 {
     public class JeuController : Controller
     {
-        private BLL.Services.JeuService _jeuService;
+        private IJeuRepository<Jeu> _jeuService;
 
-        public JeuController(JeuService jeuService)
+        public JeuController(IJeuRepository<Jeu> jeuService)
         {
             _jeuService = jeuService;
         }
