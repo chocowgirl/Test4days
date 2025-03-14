@@ -263,3 +263,5 @@ C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\ASPMVC\obj\Debug\net8.0\re
 C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\ASPMVC\obj\Debug\net8.0\ASPMVC.pdb
 C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\ASPMVC\obj\Debug\net8.0\ASPMVC.genruntimeconfig.cache
 C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\ASPMVC\obj\Debug\net8.0\ref\ASPMVC.dll
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\ASPMVC\bin\Debug\net8.0\Common.dll
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\ASPMVC\bin\Debug\net8.0\Common.pdb

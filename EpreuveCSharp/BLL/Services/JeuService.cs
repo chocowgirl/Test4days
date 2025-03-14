@@ -11,9 +11,10 @@ namespace BLL.Services
 {
     public class JeuService : IJeuRepository<Jeu>
     {
-        private DAL.Services.JeuService _service;
+        //private DAL.Services.JeuService _service;
+        private IJeuRepository<DAL.Entities.Jeu> _service;
 
-        public JeuService(DAL.Services.JeuService jeuService)
+        public JeuService(IJeuRepository<DAL.Entities.Jeu> jeuService)
         {
             _service = jeuService;
         }

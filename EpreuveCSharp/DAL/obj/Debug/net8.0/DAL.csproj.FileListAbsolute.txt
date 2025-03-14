@@ -11,3 +11,6 @@ C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\DAL\obj\Debug\net8.0\DAL.d
 C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\DAL\obj\Debug\net8.0\refint\DAL.dll
 C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\DAL\obj\Debug\net8.0\DAL.pdb
 C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\DAL\bin\Debug\net8.0\Common.dll
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\DAL\bin\Debug\net8.0\Common.pdb
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date

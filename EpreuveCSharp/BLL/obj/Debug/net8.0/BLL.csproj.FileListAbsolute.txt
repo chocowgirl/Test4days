@@ -14,3 +14,5 @@ C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\BLL\obj\Debug\net8.0\BLL.d
 C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\BLL\obj\Debug\net8.0\refint\BLL.dll
 C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\BLL\obj\Debug\net8.0\BLL.pdb
 C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\BLL\bin\Debug\net8.0\Common.dll
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\BLL\bin\Debug\net8.0\Common.pdb

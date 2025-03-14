@@ -1,0 +1,12 @@
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Jessica\source\repos\Test4days\EpreuveCSharp\Common\obj\Debug\net8.0\ref\Common.dll

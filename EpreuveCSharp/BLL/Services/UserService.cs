@@ -11,9 +11,10 @@ namespace BLL.Services
 {
     public class UserService : IUserRepository<User>
     {
-        private DAL.Services.UserService _service;
+        //private DAL.Services.UserService _service;
+        private IUserRepository<DAL.Entities.User> _service;
 
-        public UserService(DAL.Services.UserService userService)
+        public UserService(IUserRepository<DAL.Entities.User> userService)
         {
             _service = userService;
         }
