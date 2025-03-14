@@ -12,6 +12,8 @@ namespace ASPMVC
             //*****ADD OUR SERVICES (THOSE OF THE BLL AND THE DAL)
             builder.Services.AddScoped<BLL.Services.UserService>();
             builder.Services.AddScoped<DAL.Services.UserService>();
+            builder.Services.AddScoped<BLL.Services.JeuService>();
+            builder.Services.AddScoped<DAL.Services.JeuService>();
 
             var app = builder.Build();
 

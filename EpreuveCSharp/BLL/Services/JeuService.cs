@@ -12,9 +12,9 @@ namespace BLL.Services
     {
         private DAL.Services.JeuService _service;
 
-        public JeuService()
+        public JeuService(DAL.Services.JeuService jeuService)
         {
-            _service = new DAL.Services.JeuService();
+            _service = jeuService;
         }
 
         public IEnumerable<Jeu> Get()

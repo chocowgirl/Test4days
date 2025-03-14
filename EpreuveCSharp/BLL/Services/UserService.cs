@@ -12,9 +12,9 @@ namespace BLL.Services
     {
         private DAL.Services.UserService _service;
 
-        public UserService()
+        public UserService(DAL.Services.UserService userService)
         {
-            _service = new DAL.Services.UserService();
+            _service = userService;
         }
 
 
